@@ -1,0 +1,7 @@
+source "https://supermarket.getchef.com"
+
+metadata
+
+cookbook "jenkins", github: "opscode-cookbooks/jenkins", ref: "v2.1.2"
+
+
